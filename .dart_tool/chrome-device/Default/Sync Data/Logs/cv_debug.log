@@ -1,0 +1,4 @@
+{"logTime": "0130/110737", "correlationVector":"k12Q1ew2bnkrKvKE8DnTAN","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-106"}}
+{"logTime": "0130/123450", "correlationVector":"cl/rssYSo+Xy3xTYnrOOMz","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-106"}}
+{"logTime": "0130/125732", "correlationVector":"f6Es20fnRedqN1gFWyrNJI","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-106"}}
+{"logTime": "0130/125817", "correlationVector":"Om9KzhG+alZ8G87OSaH4W5","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-106"}}

@@ -1,0 +1,139 @@
+2025-01-30 11:07:02.440: [INFO][Sync] Reset engine, reason: 8
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Bookmarks
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Preferences
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Passwords
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Autofill Profiles
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Autofill
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Typed URLs
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Extensions
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Sessions
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Extension settings
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: History Delete Directives
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Device Info
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: User Consents
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Send Tab To Self
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Web Apps
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: History
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Collection
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Edge E Drop
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Edge Tab Group
+2025-01-30 11:07:02.440: [INFO][Sync] Stopped: Edge Wallet
+2025-01-30 11:07:02.440: [INFO][Sync] SyncState after authenticated was: NotSignedIn
+2025-01-30 11:07:02.880: [INFO][Sync] Reset engine, reason: 8
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Bookmarks
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Preferences
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Passwords
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Autofill Profiles
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Autofill
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Typed URLs
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Extensions
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Sessions
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Extension settings
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: History Delete Directives
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Device Info
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: User Consents
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Send Tab To Self
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Web Apps
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: History
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Collection
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Edge E Drop
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Edge Tab Group
+2025-01-30 11:07:02.880: [INFO][Sync] Stopped: Edge Wallet
+2025-01-30 11:07:03.809: [INFO][Sync] Try to start sync engine
+2025-01-30 11:07:03.811: [INFO][SyncManagerImpl::NudgeForInitialDownload] Initial download nudge for Encryption Keys
+2025-01-30 11:07:03.811: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2025-01-30 11:07:03.811: [INFO][SyncEngineBackend::DoInitialize] Control Types added: Encryption Keys
+2025-01-30 11:07:03.811: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download: Encryption Keys with reason: 3
+2025-01-30 11:07:03.811: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Configure job was blocked
+2025-01-30 11:07:04.308: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2025-01-30 11:07:04.308: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2025-01-30 11:07:04.308: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2025-01-30 11:07:37.918: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2025-01-30 11:07:37.918: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2025-01-30 11:07:37.918: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2025-01-30 11:07:37.918: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Blocked types:  and types to download: Encryption Keys
+2025-01-30 11:07:37.931: [INFO][SyncSchedulerImpl::OnSyncNetworkError] Syncer error: Network error (ERR_INTERNET_DISCONNECTED)
+2025-01-30 11:07:37.933: [WARN][Sync] NetworkError: Network error (ERR_INTERNET_DISCONNECTED)
+2025-01-30 11:07:37.933: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Syncer error: Success
+2025-01-30 11:07:43.119: [INFO][Sync] Reset engine, reason: 0
+2025-01-30 11:07:43.119: [INFO][Sync] Reset engine with reason: 0
+2025-01-30 12:34:14.612: [INFO][Sync] SyncState after authenticated was: FeatureCanStart
+2025-01-30 12:34:15.120: [INFO][Sync] Try to start sync engine
+2025-01-30 12:34:15.192: [INFO][SyncManagerImpl::NudgeForInitialDownload] Initial download nudge for Encryption Keys
+2025-01-30 12:34:15.192: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2025-01-30 12:34:15.192: [INFO][SyncEngineBackend::DoInitialize] Control Types added: Encryption Keys
+2025-01-30 12:34:15.192: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download: Encryption Keys with reason: 3
+2025-01-30 12:34:15.194: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Configure job was blocked
+2025-01-30 12:34:15.735: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2025-01-30 12:34:15.736: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2025-01-30 12:34:15.737: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2025-01-30 12:34:50.119: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2025-01-30 12:34:50.119: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2025-01-30 12:34:50.119: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2025-01-30 12:34:50.126: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Blocked types:  and types to download: Encryption Keys
+2025-01-30 12:34:50.129: [INFO][SyncSchedulerImpl::OnSyncNetworkError] Syncer error: Network error (ERR_INTERNET_DISCONNECTED)
+2025-01-30 12:34:50.129: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Syncer error: Success
+2025-01-30 12:34:50.130: [WARN][Sync] NetworkError: Network error (ERR_INTERNET_DISCONNECTED)
+2025-01-30 12:35:19.473: [INFO][Sync] Reset engine, reason: 0
+2025-01-30 12:35:19.473: [INFO][Sync] Reset engine with reason: 0
+2025-01-30 12:45:35.774: [INFO][Sync] SyncState after authenticated was: FeatureCanStart
+2025-01-30 12:45:36.132: [INFO][Sync] Try to start sync engine
+2025-01-30 12:45:36.134: [INFO][SyncManagerImpl::NudgeForInitialDownload] Initial download nudge for Encryption Keys
+2025-01-30 12:45:36.134: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2025-01-30 12:45:36.134: [INFO][SyncEngineBackend::DoInitialize] Control Types added: Encryption Keys
+2025-01-30 12:45:36.134: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download: Encryption Keys with reason: 3
+2025-01-30 12:45:36.134: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Configure job was blocked
+2025-01-30 12:45:36.439: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2025-01-30 12:45:36.439: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2025-01-30 12:45:36.439: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2025-01-30 12:45:48.393: [INFO][Sync] Reset engine, reason: 0
+2025-01-30 12:45:48.393: [INFO][Sync] Reset engine with reason: 0
+2025-01-30 12:54:19.040: [INFO][Sync] SyncState after authenticated was: FeatureCanStart
+2025-01-30 12:54:19.619: [INFO][Sync] Try to start sync engine
+2025-01-30 12:54:19.701: [INFO][SyncManagerImpl::NudgeForInitialDownload] Initial download nudge for Encryption Keys
+2025-01-30 12:54:19.701: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2025-01-30 12:54:19.701: [INFO][SyncEngineBackend::DoInitialize] Control Types added: Encryption Keys
+2025-01-30 12:54:19.701: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download: Encryption Keys with reason: 3
+2025-01-30 12:54:19.701: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Configure job was blocked
+2025-01-30 12:54:19.983: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2025-01-30 12:54:19.983: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2025-01-30 12:54:19.984: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2025-01-30 12:54:49.235: [INFO][Sync] Reset engine, reason: 0
+2025-01-30 12:54:49.235: [INFO][Sync] Reset engine with reason: 0
+2025-01-30 12:55:33.409: [INFO][Sync] SyncState after authenticated was: FeatureCanStart
+2025-01-30 12:55:33.969: [INFO][Sync] Try to start sync engine
+2025-01-30 12:55:33.977: [INFO][SyncManagerImpl::NudgeForInitialDownload] Initial download nudge for Encryption Keys
+2025-01-30 12:55:33.977: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2025-01-30 12:55:33.977: [INFO][SyncEngineBackend::DoInitialize] Control Types added: Encryption Keys
+2025-01-30 12:55:33.977: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download: Encryption Keys with reason: 3
+2025-01-30 12:55:33.977: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Configure job was blocked
+2025-01-30 12:55:34.354: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2025-01-30 12:55:34.354: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2025-01-30 12:55:34.354: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2025-01-30 12:56:54.791: [INFO][Sync] SyncState after authenticated was: FeatureCanStart
+2025-01-30 12:56:55.632: [INFO][Sync] Try to start sync engine
+2025-01-30 12:56:55.650: [INFO][SyncManagerImpl::NudgeForInitialDownload] Initial download nudge for Encryption Keys
+2025-01-30 12:56:55.650: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2025-01-30 12:56:55.650: [INFO][SyncEngineBackend::DoInitialize] Control Types added: Encryption Keys
+2025-01-30 12:56:55.650: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download: Encryption Keys with reason: 3
+2025-01-30 12:56:55.651: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Configure job was blocked
+2025-01-30 12:56:56.063: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2025-01-30 12:56:56.064: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2025-01-30 12:56:56.065: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2025-01-30 12:57:32.257: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2025-01-30 12:57:32.257: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2025-01-30 12:57:32.257: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2025-01-30 12:57:32.257: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Blocked types:  and types to download: Encryption Keys
+2025-01-30 12:57:32.273: [INFO][SyncSchedulerImpl::OnSyncNetworkError] Syncer error: Network error (ERR_INTERNET_DISCONNECTED)
+2025-01-30 12:57:32.275: [WARN][Sync] NetworkError: Network error (ERR_INTERNET_DISCONNECTED)
+2025-01-30 12:57:32.277: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Syncer error: Success
+2025-01-30 12:58:06.426: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: EDGE_AUTH_ERROR: 3, 13, 800704cf for account type: MSA
+2025-01-30 12:58:06.426: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2025-01-30 12:58:17.280: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Blocked types:  and types to download: Encryption Keys
+2025-01-30 12:58:17.289: [INFO][SyncSchedulerImpl::OnSyncNetworkError] Syncer error: Network error (ERR_INTERNET_DISCONNECTED)
+2025-01-30 12:58:17.290: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Syncer error: Success
+2025-01-30 12:58:17.291: [WARN][Sync] NetworkError: Network error (ERR_INTERNET_DISCONNECTED)
+2025-01-30 12:58:36.321: [INFO][Sync] Reset engine, reason: 0
+2025-01-30 12:58:36.321: [INFO][Sync] Reset engine with reason: 0
